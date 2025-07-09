@@ -1,2 +1,1 @@
-# GoAiSDKNetworkNext
-Advanced GoAiSDKNetworkNext project
+.
